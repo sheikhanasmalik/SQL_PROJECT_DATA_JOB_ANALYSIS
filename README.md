@@ -1,4 +1,4 @@
-# SQL Data Analyst Job Market Analysis
+# Data Analyst Job Market Analysis
 
 A comprehensive SQL project that analyzes the Data Analyst job market using real-world job posting data. This project answers key business questions about salaries, in-demand skills, and the optimal technologies to learn for maximizing career opportunities.
 
