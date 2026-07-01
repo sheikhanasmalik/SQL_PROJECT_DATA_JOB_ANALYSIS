@@ -1,24 +1,24 @@
-# 📊 SQL Data Analyst Job Market Analysis
+# SQL Data Analyst Job Market Analysis
 
 A comprehensive SQL project that analyzes the Data Analyst job market using real-world job posting data. This project answers key business questions about salaries, in-demand skills, and the optimal technologies to learn for maximizing career opportunities.
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 The goal of this project is to explore the Data Analyst job market using SQL and uncover valuable insights into:
 
-- 💰 Highest paying Data Analyst jobs
-- 🛠️ Skills required for top-paying roles
-- 📈 Most in-demand technical skills
-- 💵 Highest-paying technical skills
-- ⭐ Optimal skills based on both salary and market demand
+- Highest paying Data Analyst jobs
+- Skills required for top-paying roles
+- Most in-demand technical skills
+- Highest-paying technical skills
+- Optimal skills based on both salary and market demand
 
 The project demonstrates advanced SQL querying techniques while solving real-world business problems using a relational database.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 project_sql/
@@ -32,7 +32,7 @@ project_sql/
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 The project analyzes a job postings dataset containing information about:
 
@@ -53,7 +53,7 @@ Database Tables Used:
 
 ---
 
-# 🛠 SQL Concepts Used
+# SQL Concepts Used
 
 This project demonstrates proficiency in:
 
@@ -71,9 +71,9 @@ This project demonstrates proficiency in:
 
 ---
 
-# 📌 Business Questions Solved
+# Business Questions Solved
 
-## 1️⃣ Top Paying Data Analyst Jobs
+## 1 Top Paying Data Analyst Jobs
 
 ### Objective
 
@@ -94,7 +94,7 @@ Identify the top 10 highest-paying remote Data Analyst jobs with available salar
 
 ---
 
-## 2️⃣ Skills Required for Top Paying Jobs
+## 2 Skills Required for Top Paying Jobs
 
 ### Objective
 
@@ -114,7 +114,7 @@ Determine which technical skills are required for the highest-paying Data Analys
 
 ---
 
-## 3️⃣ Highest Paying Skills
+## 3 Highest Paying Skills
 
 ### Objective
 
@@ -134,7 +134,7 @@ Calculate the average salary associated with each technical skill.
 
 ---
 
-## 4️⃣ Most In-Demand Skills
+## 4 Most In-Demand Skills
 
 ### Objective
 
@@ -159,7 +159,7 @@ These remain the core competencies expected from Data Analysts.
 
 ---
 
-## 5️⃣ Optimal Skills (High Demand + High Salary)
+## 5 Optimal Skills (High Demand + High Salary)
 
 ### Objective
 
@@ -184,7 +184,7 @@ These skills provide the highest return on investment for aspiring Data Analysts
 
 ---
 
-# 📈 Key Findings
+# Key Findings
 
 - SQL remains the most essential skill for Data Analysts.
 - Python is increasingly becoming a standard requirement.
@@ -195,7 +195,7 @@ These skills provide the highest return on investment for aspiring Data Analysts
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 - SQL Query Development
 - Data Cleaning
@@ -209,7 +209,7 @@ These skills provide the highest return on investment for aspiring Data Analysts
 
 ---
 
-# 💡 Learning Outcomes
+# Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
@@ -222,7 +222,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-# 📌 Tools Used
+# Tools Used
 
 - PostgreSQL
 - SQL
@@ -232,7 +232,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-# 📷 Sample Business Questions
+# Sample Business Questions
 
 ✔ Which companies offer the highest-paying remote Data Analyst jobs?
 
@@ -246,15 +246,15 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-# 🎯 Conclusion
+# Conclusion
 
 This project demonstrates how SQL can be used to answer real-world business questions by analyzing job market data. The insights help aspiring Data Analysts understand which skills employers value most and which technologies can maximize both career opportunities and salary potential.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Sheikh Anas Malik**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shaikh-anas-malik-bb1378260
-- 💻 GitHub: https://github.com/sheikhanasmalik
+- LinkedIn: https://www.linkedin.com/in/shaikh-anas-malik-bb1378260
+- GitHub: https://github.com/sheikhanasmalik
