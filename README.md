@@ -254,7 +254,7 @@ This project demonstrates how SQL can be used to answer real-world business ques
 
 ## Author
 
-**Sheikh Anas Malik**
+**Shaikh Anas**
 
 - LinkedIn: https://www.linkedin.com/in/shaikh-anas-malik-bb1378260
 - GitHub: https://github.com/sheikhanasmalik
